@@ -8,7 +8,8 @@ PWA pour iPhone (ajoutée à l'écran d'accueil depuis Safari) pour apprendre l'
 Méthode : explication en français → production tapée (jamais de QCM) → répétition espacée de tout ce qui est appris.
 
 - Aucune dépendance, aucun build : HTML + CSS + modules ES natifs.
-- Hébergement prévu : GitHub Pages, dépôt `nightmife/parlons`, branche `main`, racine.
+- Hébergement : GitHub Pages, dépôt `nightmife/parlons`, branche `main`, racine. URL : https://nightmife.github.io/parlons/
+  Déployer : `git push origin main` (Pages reconstruit en 1 min environ).
 - Données : `localStorage['parlons.v1']` sur l'appareil (export / import JSON dans les réglages).
 
 ## Commandes
